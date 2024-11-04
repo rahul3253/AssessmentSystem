@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-04T09:30:26 EST" name="Suite" finished-at="2024-11-04T09:31:29 EST" duration-ms="63387">
+    <groups>
+    </groups>
+    <test started-at="2024-11-04T09:30:26 EST" name="Test" finished-at="2024-11-04T09:31:29 EST" duration-ms="63387">
+      <class name="Assesment.Test.AppTest">
+        <test-method is-config="true" signature="Init(java.lang.String)[pri:0, instance:Assesment.Test.AppTest@399c4be1]" started-at="2024-11-04T09:30:26 EST" name="Init" finished-at="2024-11-04T09:30:33 EST" duration-ms="7072" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method signature="verifyComments()[pri:0, instance:Assesment.Test.AppTest@399c4be1]" started-at="2024-11-04T09:30:33 EST" name="verifyComments" finished-at="2024-11-04T09:31:00 EST" duration-ms="26511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyComments -->
+        <test-method is-config="true" signature="Init(java.lang.String)[pri:0, instance:Assesment.Test.AppTest@399c4be1]" started-at="2024-11-04T09:31:00 EST" name="Init" finished-at="2024-11-04T09:31:07 EST" duration-ms="7380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method signature="verifySearchFunctionality()[pri:0, instance:Assesment.Test.AppTest@399c4be1]" started-at="2024-11-04T09:31:07 EST" name="verifySearchFunctionality" finished-at="2024-11-04T09:31:29 EST" duration-ms="21997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctionality -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Assesment.Test.AppTest@399c4be1]" started-at="2024-11-04T09:31:29 EST" name="CloseBrowser" finished-at="2024-11-04T09:31:29 EST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Assesment.Test.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
